@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.js": "/banoo/static/js/main.95ea396b.js",
+    "static/js/915.3d849621.js": "/banoo/static/js/915.3d849621.js",
+    "static/media/MaterialCommunityIcons.ttf": "/banoo/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Base.jpg": "/banoo/static/media/Base.fcaeaf7cca13d3dde112.jpg",
+    "static/media/Ionicons.ttf": "/banoo/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
+    "static/media/FontAwesome.ttf": "/banoo/static/media/FontAwesome.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Logo.png": "/banoo/static/media/Logo.96e9b2615a81a4caf219.png",
+    "static/media/AntDesign.ttf": "/banoo/static/media/AntDesign.163adab9dbd7cb1ed12a.ttf",
+    "static/media/Yekan-Light.ttf": "/banoo/static/media/Yekan-Light.aaaaece0a9a9638b0c18.ttf",
+    "static/media/Yekan-Medium.ttf": "/banoo/static/media/Yekan-Medium.425762078aac1e6d5c2f.ttf",
+    "static/media/Yekan.ttf": "/banoo/static/media/Yekan.57d21f9129237cea1fd3.ttf",
+    "static/media/Yekan-ExtraBold.ttf": "/banoo/static/media/Yekan-ExtraBold.d88a9d60c9aac43a82f3.ttf",
+    "static/media/Yekan-Bold.ttf": "/banoo/static/media/Yekan-Bold.b6da2dc47e3ed97283cd.ttf",
+    "static/media/Banner.jpg": "/banoo/static/media/Banner.95ea7997040d795ddf09.jpg",
+    "static/media/SimpleLineIcons.ttf": "/banoo/static/media/SimpleLineIcons.3ec13a24af3fdda11107.ttf",
+    "favicon.ico": "/banoo/favicon.ico",
+    "index.html": "/banoo/index.html",
+    "static/media/Avatar.png": "/banoo/static/media/Avatar.fedca0dca7dc6798afac.png",
+    "favicon-32.png": "/banoo/favicon-32.png",
+    "favicon-16.png": "/banoo/favicon-16.png",
+    "manifest.json": "/banoo/manifest.json",
+    "serve.json": "/banoo/serve.json",
+    "main.95ea396b.js.map": "/banoo/static/js/main.95ea396b.js.map",
+    "915.3d849621.js.map": "/banoo/static/js/915.3d849621.js.map"
+  },
+  "entrypoints": [
+    "static/js/915.3d849621.js",
+    "static/js/main.95ea396b.js"
+  ]
+}
